@@ -20,7 +20,7 @@
     <properties>
         <version.datawave>7.0.0</version.datawave>
         <version.microservice.mapreduce-layout-factory>1.0.0</version.microservice.mapreduce-layout-factory>
-        <version.microservice.starter-query>1.0.0</version.microservice.starter-query>
+        <version.microservice.starter-query>1.0.1-SNAPSHOT</version.microservice.starter-query>
     </properties>
     <dependencyManagement>
         <dependencies>
